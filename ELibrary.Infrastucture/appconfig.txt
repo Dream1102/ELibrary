@@ -1,0 +1,1 @@
+﻿Server=localhost;Port=5432;Database=eshop;User Id=postgres;Password=I4763265z;

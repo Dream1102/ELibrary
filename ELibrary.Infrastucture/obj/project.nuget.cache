@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWGNFQZJqqoq3WjYUzxlEhFz1yc/hQF8Ws4qumrx6Ll3oAP7LMxiCMgENpFDMcHyUfSUFRFRynwzIwUkhEMJyg==",
+  "success": true,
+  "projectFilePath": "F:\\pdp\\ELibraryPrsentation\\ELibrary.Infrastucture\\ELibrary.Infrastucture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP VICTUS\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\HP VICTUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP VICTUS\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

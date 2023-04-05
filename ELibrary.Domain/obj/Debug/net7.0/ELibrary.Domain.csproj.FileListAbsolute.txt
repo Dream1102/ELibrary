@@ -1,0 +1,12 @@
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\bin\Debug\net7.0\ELibrary.Domain.deps.json
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\bin\Debug\net7.0\ELibrary.Domain.dll
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\bin\Debug\net7.0\ELibrary.Domain.pdb
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\obj\Debug\net7.0\ELibrary.Domain.csproj.AssemblyReference.cache
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\obj\Debug\net7.0\ELibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\obj\Debug\net7.0\ELibrary.Domain.AssemblyInfoInputs.cache
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\obj\Debug\net7.0\ELibrary.Domain.AssemblyInfo.cs
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\obj\Debug\net7.0\ELibrary.Domain.csproj.CoreCompileInputs.cache
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\obj\Debug\net7.0\ELibrary.Domain.dll
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\obj\Debug\net7.0\refint\ELibrary.Domain.dll
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\obj\Debug\net7.0\ELibrary.Domain.pdb
+F:\pdp\ELibraryPrsentation\ELibrary.Domain\obj\Debug\net7.0\ref\ELibrary.Domain.dll
